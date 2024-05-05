@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/nnennanj/Betty/AirBnB_clone_v3/myenv"
+set -gx VIRTUAL_ENV "/home/nnennanj/Betty/AirBnB_clone_v4/myenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
